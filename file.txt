@@ -1,0 +1,4 @@
+html=hyper text markup language
+css=cascading style sheet
+js=javascript
+php=hypertext preprocessor 
